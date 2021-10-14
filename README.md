@@ -1,2 +1,2 @@
-# java11-junit5-mvn-archetype
+# java11-mvn-archetype
 Base Maven Archetype for simple Java projects
